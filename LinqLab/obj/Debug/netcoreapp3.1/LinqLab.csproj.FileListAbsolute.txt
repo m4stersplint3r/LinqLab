@@ -1,0 +1,13 @@
+D:\Bootcamp\Labs\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.exe
+D:\Bootcamp\Labs\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.deps.json
+D:\Bootcamp\Labs\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.json
+D:\Bootcamp\Labs\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.dev.json
+D:\Bootcamp\Labs\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.dll
+D:\Bootcamp\Labs\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.pdb
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csprojAssemblyReference.cache
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfoInputs.cache
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfo.cs
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.dll
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.pdb
+D:\Bootcamp\Labs\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.genruntimeconfig.cache
